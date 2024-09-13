@@ -22,7 +22,8 @@
     --tridactyl-fg: var(--fg);
     --tridactyl-bg: var(--bg);
     --tridactyl-url-fg: var(--rosewater);
-    --tridactyl-url-bg: var(--bg);
+/*     --tridactyl-url-bg: var(--bg); */
+    --tridactyl-url-fg: var(--pink);
     --tridactyl-highlight-box-bg: var(--currentline);
     --tridactyl-highlight-box-fg: var(--fg);
     --tridactyl-of-fg: var(--fg);
